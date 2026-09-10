@@ -1,14 +1,14 @@
 # TaskList Flutter
 
-Aplicativo educacional desenvolvido em Flutter para demonstrar a construção de interfaces baseadas em coleções de dados utilizando `ListView` e `GridView`.
+Aplicativo desenvolvido em Flutter para demonstrar a construção de interfaces baseadas em coleções de dados utilizando `ListView` e `GridView`.
 
 O projeto implementa um gerenciador de tarefas com operações de adicionar, consultar, atualizar, remover, pesquisar e concluir tarefas. A aplicação utiliza uma organização baseada em **Model, View e Controller**, gerenciamento de estado com `ChangeNotifier`, localização de dependências com `get_it` e visualização responsiva com `device_preview_plus`.
 
 ---
 
-## Objetivo educacional
+## Objetivo 
 
-Este projeto foi desenvolvido como exemplo prático para a disciplina de **Programação Mobile**, com o objetivo de apresentar aos alunos conceitos fundamentais do desenvolvimento de aplicativos multiplataforma com Flutter.
+Este projeto tem com o objetivo de apresentar os conceitos fundamentais do desenvolvimento de aplicativos multiplataforma com Flutter.
 
 Durante o desenvolvimento do projeto, são trabalhados os seguintes conteúdos:
 
