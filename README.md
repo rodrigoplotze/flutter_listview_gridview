@@ -1189,38 +1189,24 @@ Markdown: Open Preview to the Side
 
 ---
 
-## Capturas de tela
-
-Crie uma pasta chamada `screenshots` na raiz do projeto:
-
-```text
-task_list/
-├── README.md
-├── screenshots/
-│   ├── lista.png
-│   ├── grade.png
-│   ├── cadastro.png
-│   └── pesquisa.png
-└── lib/
-```
 
 ### Visualização em lista
 
-./screenshots/lista.png
+<img src='screenshots/lista.png' />
 
 ### Visualização em grade
 
-./screenshots/grade.png
+<img src='screenshots/grade.png' />
 
 ### Cadastro de tarefa
 
-./screenshots/cadastro.png
+<img src='screenshots/cadastro.png' />
+
+
 
 ### Pesquisa de tarefas
 
-./screenshots/pesquisa.png
-
-Se as imagens ainda não existirem, o Visual Studio Code exibirá apenas o texto alternativo até que os arquivos sejam adicionados à pasta `screenshots`.
+<img src='screenshots/pesquisa.png' />
 
 ---
 
